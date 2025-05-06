@@ -1,4 +1,6 @@
-<p align="left">random stuff</p>
+## random stuff
+
+[![](https://storage.ko-fi.com/cdn/kofi5.png?v=6)](https://ko-fi.com/X8X81ELTUM)
 
 ###
 
