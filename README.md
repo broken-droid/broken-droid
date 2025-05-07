@@ -1,6 +1,5 @@
-## random stuff
+<div align="center"><a href='https://ko-fi.com/X8X81ELTUM' target='_blank' class="centered-image"><img height='45' style='border:0px;height:45px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a></div>
 
-[![](https://storage.ko-fi.com/cdn/kofi5.png?v=6)](https://ko-fi.com/X8X81ELTUM)
 
 ###
 
